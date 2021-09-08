@@ -1,9 +1,9 @@
 ## Blood Buddies (Front)
 
-<img src="/screenshots/2.png">
+<img src="/public/screenshots/2.png">
 <br>
 
-<img src="/screenshots/admin-dashboard.png">
+<img src="/public/screenshots/admin-dashboard.png">
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
